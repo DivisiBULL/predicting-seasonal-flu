@@ -3,8 +3,11 @@
 Predicting seasonal flu using multi-iterative classification models
 
 # Repo Guide
+This README will briefly describe my process and findings. For more information visit the notebook
 
-The main work of this project takes place in [Vaccine_Classification.ipynb](). This README will briefly describe my process and findings. For more information visit the notebook
+The main work of this project takes place in [Vaccine_Classification.ipynb](https://github.com/DivisiBULL/predicting-seasonal-flu/blob/main/Vaccine_Classification.ipynb). Note: This likely will not render in github. This is an error on the side of github and I can't do anything about it. Visit [NBViewer](https://nbviewer.org/github/DivisiBULL/predicting-seasonal-flu/blob/main/Vaccine_Classification.ipynb) to be able to visit the entire notebook
+
+There is also a presentation located under the PDFs folder [link](https://github.com/DivisiBULL/predicting-seasonal-flu/blob/main/PDFs/presentation_flatiron_phase_3_project.pdf)
 
 # Business Understanding
 
